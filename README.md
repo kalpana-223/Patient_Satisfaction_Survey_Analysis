@@ -3,12 +3,18 @@ This project analyzes patient satisfaction survey data to evaluate and visualize
 
 Key Focus Areas:
 Doctor-Patient Communication
+
 Nurse Responsiveness and Care
+
 Pharmacy Services
+
 Administrative Efficiency and Support
 
 🛠️ Tools & Libraries
 NumPy: For numerical computations and array operations.
+
 pandas: For data manipulation and preprocessing.
+
 matplotlib: For creating static visualizations.
+
 seaborn: For statistical data visualization and aesthetic plots.
